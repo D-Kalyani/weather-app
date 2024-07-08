@@ -4,7 +4,7 @@
 //2.fetch all the data from the api 
 //3.display
 
-let apiKey  = "db0475f0c5e889097294dd17e5c81a5c"   
+let apiKey  = ""   
  
 
 const getLatitudeAndLongitude = async(city) =>
